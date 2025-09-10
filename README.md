@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1><b>Hi, I'm Evan Santosa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<ul>
+  <li> SSG5 C2 </li>
+  <li> Work Location: BINUS School Simprug</li>
+</ul>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=FFBC0D&size=28&center=false&vCenter=true&width=900&height=100&lines='We+walk+the+talk,+not+only+talk+the+talk'" />
+
 
 <!--
 **evansantosa-itbinus/evansantosa-itbinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
