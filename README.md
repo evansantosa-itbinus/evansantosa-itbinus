@@ -3,7 +3,7 @@
   <li> SSG5 C2 </li>
   <li> Work Location: BINUS School Simprug</li>
 </ul>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=FFBC0D&size=28&center=false&vCenter=true&width=900&height=100&lines='We+walk+the+talk,+not+only+talk+the+talk'" />
+
 
 
 <!--
